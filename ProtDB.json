@@ -1,0 +1,16 @@
+{
+    "file": "https://raw.githubusercontent.com/secilmisd/L1000/master/ProtDB.csv",
+    "name": "Class",
+    "header": 0,
+    "separator": ",",
+    "skip": 0,
+    "meta": [
+        { "type": "id", "index": 9, "name": "ProteinID" }
+    ],
+    "sets": [
+        { "format": "binary", "start": 1, "end": 8 }
+    ],
+     "author": "Sonnhammer Lab",
+     "description": "Protein Classes for L1000",
+     "source": "http://vcg.github.io/upset/"
+}
